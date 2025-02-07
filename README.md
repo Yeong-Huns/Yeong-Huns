@@ -3,10 +3,10 @@
 
 * * *
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yeong-Huns&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Yeong-Huns"
-  width="600"
-  height="300"
+  width="800"
+  height="400"
 />
 </a>
